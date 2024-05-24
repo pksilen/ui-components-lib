@@ -2,16 +2,14 @@
   "name": "ui-components-lib",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "prebuild": "rimraf dist",
     "build": "tsc"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "prettier": "^3.2.5",
-    "rimraf": "^5.0.7",
     "typescript": "^5.4.5"
   },
   "dependencies": {
