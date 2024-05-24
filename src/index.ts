@@ -4,6 +4,10 @@ export { Button } from './buttons/Button';
 export { IconButton } from './buttons/IconButton';
 export { IconOrButton } from './buttons/IconOrButton';
 export { IconRadioButtonGroup } from './buttons/IconRadioButtonGroup';
+export type {
+  IconRadioButtonProps,
+  IconRadioButtonGroupProps
+} from './buttons/IconRadioButtonGroup';
 
 export * from './icons/Icons';
 
